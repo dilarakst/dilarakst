@@ -5,7 +5,7 @@
 
 <tr>
 <td>
- <a href="https://www.linkedin.com/in/eda-ka%C5%9F-289943180/"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /></a>
+ <a href="https://www.linkedin.com/in/dilara-karstarl%C4%B1-726875226/"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /></a>
 </td>
 </tr>
 
