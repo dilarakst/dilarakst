@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi there, I'm Dilara :blush: 
+🌱  
 
-<!--
-**dilarakst/dilarakst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Reach out to me
 
-Here are some ideas to get you started:
+<tr>
+<td>
+ <a href="https://www.linkedin.com/in/eda-ka%C5%9F-289943180/"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /></a>
+</td>
+</tr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Tech I Use
+
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28">
+<br/>
+<br/>
+
+ <summary>:bulb:Github Stats</summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=dilarakst&&theme=radical">
+
+
+<br/>
+
+ <summary>:bulb:Most Used Languages</summary>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilarakst&layout=compact">
+
+
+[linkedin]:https://www.linkedin.com/in/dilara-karstarl%C4%B1-726875226/
